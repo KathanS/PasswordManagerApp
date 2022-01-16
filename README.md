@@ -1,3 +1,3 @@
 # PasswordManagerApp
 
-Explored GitHub and Android Studio, December 2019.
+Explored GitHub and Android Studio for first time, December 2019.
